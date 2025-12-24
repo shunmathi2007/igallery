@@ -1,5 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:24.12.2025
+## Reference number:25012447
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -114,7 +115,7 @@ body {
     transition: transform 0
 ~~~
 ## OUTPUT:
-![alt text](<../gallery 1.png>)
-![alt text](<../gallery 2.png>)
+![alt text](<gallery 1.png>)
+![alt text](<gallery 2.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
